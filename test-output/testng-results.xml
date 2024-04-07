@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-07T17:12:42 SGT" name="Suite" finished-at="2024-04-07T17:12:54 SGT" duration-ms="12620">
+    <groups>
+    </groups>
+    <test started-at="2024-04-07T17:12:42 SGT" name="Test" finished-at="2024-04-07T17:12:54 SGT" duration-ms="12620">
+      <class name="Endtoend">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Endtoend@5cee5251]" started-at="2024-04-07T17:12:42 SGT" name="setUp" finished-at="2024-04-07T17:12:49 SGT" duration-ms="7196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="toDoPage()[pri:1, instance:Endtoend@5cee5251]" started-at="2024-04-07T17:12:49 SGT" name="toDoPage" finished-at="2024-04-07T17:12:49 SGT" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toDoPage -->
+        <test-method signature="enterTasks()[pri:2, instance:Endtoend@5cee5251]" started-at="2024-04-07T17:12:49 SGT" name="enterTasks" finished-at="2024-04-07T17:12:49 SGT" duration-ms="176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterTasks -->
+        <test-method signature="totalTasks()[pri:3, instance:Endtoend@5cee5251]" started-at="2024-04-07T17:12:49 SGT" name="totalTasks" finished-at="2024-04-07T17:12:49 SGT" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- totalTasks -->
+        <test-method signature="selectUnselecttAllTasks()[pri:4, instance:Endtoend@5cee5251]" started-at="2024-04-07T17:12:49 SGT" name="selectUnselecttAllTasks" finished-at="2024-04-07T17:12:49 SGT" duration-ms="49" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectUnselecttAllTasks -->
+        <test-method signature="completedTasks()[pri:5, instance:Endtoend@5cee5251]" started-at="2024-04-07T17:12:49 SGT" name="completedTasks" finished-at="2024-04-07T17:12:49 SGT" duration-ms="67" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- completedTasks -->
+        <test-method signature="activeTasks()[pri:6, instance:Endtoend@5cee5251]" started-at="2024-04-07T17:12:49 SGT" name="activeTasks" finished-at="2024-04-07T17:12:49 SGT" duration-ms="65" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- activeTasks -->
+        <test-method signature="itemsLeft()[pri:7, instance:Endtoend@5cee5251]" started-at="2024-04-07T17:12:49 SGT" name="itemsLeft" finished-at="2024-04-07T17:12:49 SGT" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- itemsLeft -->
+        <test-method signature="clearCompleted()[pri:8, instance:Endtoend@5cee5251]" started-at="2024-04-07T17:12:49 SGT" name="clearCompleted" finished-at="2024-04-07T17:12:54 SGT" duration-ms="4929" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearCompleted -->
+        <test-method is-config="true" signature="teatDown()[pri:0, instance:Endtoend@5cee5251]" started-at="2024-04-07T17:12:54 SGT" name="teatDown" finished-at="2024-04-07T17:12:54 SGT" duration-ms="88" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teatDown -->
+      </class> <!-- Endtoend -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
